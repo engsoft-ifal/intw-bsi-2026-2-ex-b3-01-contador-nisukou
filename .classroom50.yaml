@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "intw-bsi-2026-2"
+assignment: "ex-b3-01-contador"
+owner:
+  username: "nisukou"
+  id: 288424298
+  accepted_at: "2026-11-11T13:27:30Z"
+source:
+  owner: "engsoft-ifal"
+  owner_id: 100852696
+  repo: "pweb1-ex-b3-01-contador"
+  branch: "main"
